@@ -1,0 +1,24 @@
+{
+  "name": "renderbox_dashboard",
+  "version": "1.0.0",
+  "description": "renderbox dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashish-kumar2020/renderbox_dashboard.git"
+  },
+  "author": "Ashish Kumar Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashish-kumar2020/renderbox_dashboard/issues"
+  },
+  "homepage": "https://github.com/Ashish-kumar2020/renderbox_dashboard#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.2"
+  }
+}
